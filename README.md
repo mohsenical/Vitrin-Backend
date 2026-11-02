@@ -332,13 +332,13 @@
 ### 1. دریافت پروژه
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone Vitrin-Backend
 ```
 
 ### 2. ورود به پوشه پروژه
 
 ```bash
-cd YOUR_PROJECT_NAME
+cd Vitrin-Backend
 ```
 
 ### 3. نصب وابستگی‌ها
